@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "http://radu-ske-hassio.duckdns.org:2368",
+    "contentApiKey": "90219e4eab68cf8975f983c87d"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "http://radu-ske-hassio.duckdns.org:2368",
+    "contentApiKey": "90219e4eab68cf8975f983c87d"
   }
 }
